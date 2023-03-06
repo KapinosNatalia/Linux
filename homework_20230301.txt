@@ -1,0 +1,23 @@
+   0 mkdir /home/user/start/
+   1 ls -l /home
+   2 ls /home
+   3 tree /home
+   4 mkdir -p /home/user/start/
+   5 'Start' > /home/user/start/1.txt
+   6 vi /home/user/start/1.txt
+   7 cat /home/user/start/1.txt
+   8 date >> /home/user/start/1.txt
+   9 cat /home/user/start/1.txt
+  10 mkdir /opt/task/
+  11 cp /home/user/start/1.txt /opt/task/start.txt
+  12 tree /opt
+  13 cat /opt/task/start.txt
+  14 ls -l /
+  15 ls -l -a
+  16 ls -a
+  17 ls -l -a /
+  18 ls -l -a / | tail -4
+  19 ls -l -a / | tail -4 >> /opt/task/start.txt
+  20 cat /opt/task/start.txt
+  21 history
+  22 history >> homework_20230301.txt
