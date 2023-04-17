@@ -1,0 +1,26 @@
+   0 ls -la
+   1 mkdir natalia
+   2 touch /natalia/myfirstbashscript.sh
+   3 touch ./natalia/myfirstbashscript.sh
+   4 tree 
+   5 cd ./natalia
+   6 chmod u+x myfirstbashscript.sh 
+   7 ls -la
+   8 export USER = "Natalia"
+   9 env
+  10 export USER1 = "Natalia"
+  11 export AAA1 = "Natalia"
+  12 export TEST_VAR = 'Natalia'
+  13 env
+  14 nano myfirstbashscript.sh 
+  15 cat myfirstbashscript.sh 
+  16 ./myfirstbashscript.sh 
+  17 nano myfirstbashscript.sh 
+  18 ./myfirstbashscript.sh 
+  19 env
+  20 USER = Natalia
+  21 export USER=Natalia
+  22 env
+  23 cat myfirstbashscript.sh 
+  24 ./myfirstbashscript.sh 
+  25 history >> homework_20230405.txt
